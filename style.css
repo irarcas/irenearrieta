@@ -1,0 +1,73 @@
+body{
+  background: #EAF7CF;
+  color: grey;
+  font-size: 15px;
+  font-family: Overpass;
+  text-align: center;
+}
+h1{
+  font-family: Overpass;
+  color: black;
+  font-weight: bold;
+  font-size: 40px;
+}
+h2 {
+  font-family: Overpass;
+  color: black;
+  font-weight: lighter;
+  font-size: 20px;
+}
+a {
+  color: #893425;
+}
+a:hover {
+  text-decoration: none;
+  color: #97B1A6;
+}
+
+#banner{
+  text-align: center;
+background-image: url(https://www.viajejet.com/wp-content/viajes/la-albufera-un-parque-natural-de-tradicion-pesquera.jpg);  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 50px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+}
+#origami {
+	border-style: solid
+	border-line
+	5px;
+}
+#footer a {
+  color: white;
+  font-size: 20px;
+}
+#footer a:hover {
+  color: white; font-size: 30px
+}
+
+.btn {
+	
+}
+
+font-family: 'Overpass', sans-serif;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Raleway', sans-serif;
